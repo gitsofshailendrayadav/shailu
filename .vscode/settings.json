@@ -1,0 +1,6 @@
+{
+  "files.exclude": {
+    ".nix": true,
+    ".vscode": true
+  }
+}
